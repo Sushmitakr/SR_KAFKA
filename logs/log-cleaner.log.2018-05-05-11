@@ -1,0 +1,2 @@
+[2018-05-05 11:16:57,969] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2018-05-05 11:16:58,081] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
